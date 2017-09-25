@@ -1,0 +1,7 @@
+front: 
+  location: 'dn-template-front'
+  summary: 'Front Project Template'
+
+middleware: 
+  location: 'dn-template-middleware'
+  summary: 'Middleware Project Template'
